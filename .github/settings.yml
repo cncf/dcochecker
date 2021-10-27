@@ -5,7 +5,9 @@ repository:
   name: dcochecker 
 
   # A short description of the repository that will show up on GitHub
-  🖥🖥🖥🖥 DCO Checker GitHub Action
+  description: ✔️ DCO Checker GitHub Action
+  
+  homepage: https://cncf.io/projects
 
   # Collaborators: give specific users access to this repository.
 collaborators:
